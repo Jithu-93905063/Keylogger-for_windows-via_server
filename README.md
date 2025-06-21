@@ -54,6 +54,6 @@ python keylogger.py
 
 Your server will receive and store encrypted logs every 10 seconds.
 
-*** secret.key and keylogs.db are created automatically when we the above scripts. 
+*** secret.key and keylogs.db are created automatically when we run the above scripts. 
 
 
